@@ -10,5 +10,9 @@ public class AirField {
 	public AirField() {
 		jets = new ArrayList<>();
 	}
+	
+	public void loadAllCargoJets() {
+		
+	}
 
 }
